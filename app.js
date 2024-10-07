@@ -38,4 +38,4 @@ io.on("connection", (socket) => {
   });
 });
 
-io.listen("4000" || "https://socket-io-revl.onrender.com");
+io.listen("https://socket-io-revl.onrender.com");
