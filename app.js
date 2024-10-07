@@ -38,4 +38,4 @@ io.on("connection", (socket) => {
   });
 });
 
-io.listen("https://terna-estate.netlify.app/");
+io.listen("4000" || "https://socket-io-revl.onrender.com");
